@@ -57,7 +57,7 @@ The project involves training and evaluating several regression models, includin
 3. Random Forest Regression
 4. XGBoost Regression
 
-The models are assessed for their ability to predict car purchase amounts, and the best-performing model is selected for making predictions.
+The models are assessed for their ability to predict car purchase amounts, and the best-performing model which is Tuned XGBoost Regression is selected for making predictions.
 
 ## **Conclusion**
 
