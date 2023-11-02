@@ -85,7 +85,7 @@ To further enhance the project and its impact, consider the following steps:
 - Explore additional features or external data sources to further enhance prediction accuracy.
 - Conduct A/B testing to validate the effectiveness of marketing strategies tailored based on customer insights.
 
-## **AUTHOR**
+## **Author**
 - Marwa Osman
 - marwaosman9975@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
